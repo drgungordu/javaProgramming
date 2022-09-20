@@ -1,0 +1,33 @@
+//
+
+src folder : used for storing packages
+package : used for storing java files
+package names is lowercase
+File (class) names Uppercase
+Name must CamelCase
+
+
+java file :
+right click Package -> new-> Java class
+Class create inside the package
+
+
+Formatting the codes :
+Mac: command  + option + L
+or go to the help find action write  code format
+
+
+
+public static void main ====== main  +main
+println ================= sout + enter
+
+copy paste your  snippet code :
+
+``` code ```
+3 print statements :
+
+print() Method
+println() Method
+printf() Method
+
+out changes err is red write
