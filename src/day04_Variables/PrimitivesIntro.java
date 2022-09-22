@@ -12,7 +12,7 @@ public class PrimitivesIntro {
 
         long x = 999_999_999_999L;
 
-
+        System.out.println(age + weight + salary + x);
         System.out.println("x = " + x);
 
         // decimal number use float or double
@@ -22,13 +22,16 @@ public class PrimitivesIntro {
 
         char yessNo = 'Y' ;
 
-        boolean ye = 100 > 300 ;
         boolean areYouMarried = true ;
+
+        System.out.println("areYouMarried = " + areYouMarried);
 
         System.out.println("yessNo = " + yessNo);
 
         String name = "Selami";
 
         System.out.println("name = " + name);
+
+        System.out.println(tax + pi );
     }
 }
