@@ -10,11 +10,10 @@ public class Err_VS_Out {
         System.out.println("----------------------------------");
 
         System.err.println("Hello World");
-
+        // out to err world turn red
 
 
     }
-
 
 
 }

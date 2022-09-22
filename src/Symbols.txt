@@ -4,3 +4,10 @@
 [] bracket
 ; semicolon
 : colon
+/ slash
+* Asterisk, 'splat' or 'star
+# pound sign, number sign
+_ underscore
+- hypen , minus
+, comma
++ plus

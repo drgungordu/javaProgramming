@@ -31,3 +31,117 @@ println() Method
 printf() Method
 
 out changes err is red write
+
+println after printing the last character , appends a new line
+print after printing the last character , does not appends new line
+
+// we have to use // when we write note in comment in single line
+
+/*  comment */ this is for multi line comment
+
+
+\n new line
+\t tab: it is leave a gap like tab
+\\ two backslash : it prints one \
+\" print "
+\ backslash : for write character \" vs... you write before character ( \" and \\)
+LiKE \"Hello\"
+
+
+
+Java Data Types
+
+Primitive : integer ( short , byte, int, long )
+            Float Point Number ( double,  float )
+            Characters ( char )
+            Boolean (boolean)
+
+Non Primitve :  String
+                Array
+                Classes
+                Etc
+
+DataType VariablesName = Variables
+
+byte = -128 to 127
+short = -32,768 to 32,767
+int = 2,147,483,648 to 2,147,483,647
+long =
+double =
+char = use for only single character
+boolean = true false
+
+
+we use for _ for separate the digits like = 100_000_000
+if you use , for separate the digits intellij give compiler error
+we have to use L after number long x = 99999999999L
+
+
+decimal number use float or double
+float use F after numbers
+
+double > float > long > int > short >byte
+
+integer you will use int for decimal you will use double
+
+double quote use for text for variable you can not use double quote for variables
+
+int = for all integers
+double = for decimals
+char = for single characters
+boolean = true / false
+
+String =  is a sequence of characters, surrounded by double quote ( “” )
+
+
+Variables names should be readable
+• When variable names contain two or more words, use camel case
+• The first character must be one of the letters a-z or A-Z,an underscore(_),ora dollar sign ( $ )
+• After the first character, you may use letters a - z or A - Z, the digits, underscore ( _ ) or dollar sign ( $ )
+• Can Not include spaces
+• Variable names can not be Java reserved word
+
+
+
+HOw to Replace variable names ?
+
+1. Control + R
+2. old variable name
+3. new variable name
+4. replace all
+
+Addition = +
+
+number + number ===> Addition
+
+concatenation = + must one string left or right
+
+string + data ===> concatenation
+data + string ====> concatenation
+string + string =====> concatenation
+
+
+use comma for continue if you use semicolon close primitives
+
+every escape sequences in double quote
+
+implicit and explicint casting
+
+
+int number ;
+double dval = 32.33;
+int number = (int)dval;
+(int) want to convert
+
++ = addition
+- = subtract
+* = multiplication
+/ = division
+% = Remainder
+
+
+10/4 = 2 because this is integer
+
+d convert to decimal 100d = 100.0
+
+
