@@ -144,4 +144,76 @@ int number = (int)dval;
 
 d convert to decimal 100d = 100.0
 
+remainder = numerator - ( denominator * result )
+
+
+unary operators
++ unary plus operator = indicates positive value
+- unary minus operator = negates an expression or value
+++ increment operator = increments a value by 1
+-- decrement operator = decrement a value by 1
+
+pre increment / decrement =
+int b = 25;
+sout ( ++b) = 26
+sout ( --b) = 25
+
+post increment / decrement =
+
+int a = 20;
+sout (a++) = 20
+sout(a--) = 21
+sout(a++) = 20
+
+shorthand operators
+x = y                   assignment
+x += y ==== x + y       addition assignment
+x *= y ====== x * y     multiplication assignment
+x -= y ====== x - y     subtraction assignment
+x /= y ====== x / y     division assignment
+x %= y ====== x % y     remainder assignment
+
+
+First we can declare a  variable then we can initialize it on another line
+
+Relation Operators
+== equal
+!= not equal
+less than or equal <=
+greater than or equal >=
+less than <
+greater than >
+
+
+Logical Operators
+
+&& Logical AND
+|| Logical Or
+! Logical Not
+
+
+IF STATEMENTS
+
+if (Condition) { Statements }
+
+
+Single if =  can be used creating for 1 possible outcomes    if
+
+If & Else = can be used creating for 2 conditions               if - else
+
+Multi branch if = can be used creating for 3 and more conditions        if - else if - else
+
+
+Nested IF Statements : multiple pre conditions
+if (condition){ if condition { statements } }
+
+
+
+
+
+Ternaries
+shortcut of if statement
+if: (condition)?
+else:            :
+else if:     :?
 
